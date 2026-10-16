@@ -1,0 +1,8 @@
+# Keep personal secret tokens, private topics, and runtime logs local
+config.json
+PC-Sentinel-Phone-App.html
+agent.log
+install-status.txt
+state.json
+elevate.vbs
+node_modules/

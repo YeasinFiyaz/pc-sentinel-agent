@@ -1,0 +1,11 @@
+{
+  "ntfyServer": "https://ntfy.sh",
+  "alertTopic": "my-pc-alert-xxxxxxxxxxxx",
+  "cmdTopic": "my-pc-cmd-xxxxxxxxxxxx",
+  "statusTopic": "my-pc-status-xxxxxxxxxxxx",
+  "secretToken": "your-generated-secret-token",
+  "localPort": 4848,
+  "pcName": "MY-LAPTOP",
+  "shutdownDelaySeconds": 30,
+  "createdAt": "2026-10-16T00:00:00.000Z"
+}
